@@ -4820,10 +4820,10 @@ babel-plugin-named-asset-import@^0.3.7:
   resolved "https://registry.yarnpkg.com/babel-plugin-named-asset-import/-/babel-plugin-named-asset-import-0.3.7.tgz#156cd55d3f1228a5765774340937afc8398067dd"
   integrity sha512-squySRkf+6JGnvjoUtDEjSREJEBirnXi9NqP6rjSYsylxQxqBTz+pkmf395i9E2zsvmYUaI40BHo6SqZUdydlw==
 
-babel-plugin-relay@^10.1.3:
-  version "10.1.3"
-  resolved "https://registry.yarnpkg.com/babel-plugin-relay/-/babel-plugin-relay-10.1.3.tgz#3c52f06869c2295766f4df63736b9ad887386af3"
-  integrity sha512-2dD9J6lRAT9jOWD6WqMKSdpZ5inoRlyOnEEVGoRVQ9jVR6ktO+KDgigS/+sfbg8GIY+3Xb/meC1cegdI5evrSA==
+babel-plugin-relay@^11.0.2:
+  version "11.0.2"
+  resolved "https://registry.yarnpkg.com/babel-plugin-relay/-/babel-plugin-relay-11.0.2.tgz#9ef5903226b12767114e12536c28566bddfe3aad"
+  integrity sha512-aUvTq/2wTSP43QMPbzLKXA5UTh8le1iXwZMH8Pi7rPnWzSLCaWfX6Jhy1gPVG2ADj2zjTciUsiGlOFoI3rP0Zw==
   dependencies:
     babel-plugin-macros "^2.0.0"
 
